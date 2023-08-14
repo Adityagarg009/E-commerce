@@ -1,0 +1,11 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Unique
+font link: http://www.1001fonts.com/unique-font.html
+font author: artmaker
+font author site: https://www.behance.net/artmaker
+
+
+{"bg":"#E6F2FE","icon-gradient-0":"#51A4FB","icon-gradient-1":"#51A4FB","font":"#193655","slogan":"#2d4a69"}
+      
